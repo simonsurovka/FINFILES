@@ -9,9 +9,9 @@ All data access is performed using only free, public SEC EDGAR sources, with rob
 
 ### Requirements
 
-- Rust (latest stable, with `cargo`)
-- GTK 3+ development libraries (for your OS)
-- Required dependencies (see `Cargo.toml`)
+- Rust 
+- GTK 3+ development libraries 
+- Required dependencies 
 
 ### Running the Application
 
