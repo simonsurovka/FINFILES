@@ -56,7 +56,7 @@ All data access is performed using only free, public SEC EDGAR sources, with rob
   Full keyboard navigation, screen reader support, and high-contrast color scheme.
 
 - **No Proprietary Data**  
-  100% free, open, and independent—no paid or closed data sources.
+  100% free, open, and independent.
 
 ---
 
