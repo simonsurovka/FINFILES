@@ -1,6 +1,8 @@
 # FINFILES – SEC EDGAR Data Access & AI Platform
 
-FINFILES is a professional, cross-platform SEC EDGAR data access app. It fetches and processes SEC filings (such as 10-K and 10-Q ) asynchronously for speed and responsiveness, and includes advanced filtering, export, and audit logging features. All data access is performed using only free, public SEC EDGAR sources, with robust input validation and role-based access control for enterprise security.
+FINFILES is a professional, cross-platform SEC EDGAR data access app. 
+It fetches and processes SEC filings (such as 10-K and 10-Q ) asynchronously for speed and responsiveness, and includes advanced filtering, export, and audit logging features.
+All data access is performed using only free, public SEC EDGAR sources, with robust input validation and role-based access control for enterprise security.
 
 ---
 
