@@ -5,6 +5,29 @@ It fetches and processes SEC filings (such as 10-K and 10-Q ) asynchronously for
 All data access is performed using only free, public SEC EDGAR sources, with robust input validation and role-based access control for enterprise security.
 
 ---
+## Getting Started
+
+### Requirements
+
+- Rust (latest stable, with `cargo`)
+- GTK 3+ development libraries (for your OS)
+- Required dependencies (see `Cargo.toml`)
+
+### Running the Application
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-org/finfiles.git
+   cd finfiles
+   ```
+2. Install dependencies:
+   - **Windows:** Ensure GTK is installed and available in your `PATH`.
+   - **macOS/Linux:** Use your package manager to install GTK 3.
+3. Build and run:
+   ```sh
+   cargo run 
+   ```
+---
 
 ## Features
 
@@ -54,30 +77,6 @@ All data access is performed using only free, public SEC EDGAR sources, with rob
 - **Export & Logging**  
   All data access and export actions are logged for auditability.
 
----
-
-## Getting Started
-
-### Requirements
-
-- Rust (latest stable, with `cargo`)
-- GTK 3+ development libraries (for your OS)
-- Required dependencies (see `Cargo.toml`)
-
-### Running the Application
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-org/finfiles.git
-   cd finfiles
-   ```
-2. Install dependencies:
-   - **Windows:** Ensure GTK is installed and available in your `PATH`.
-   - **macOS/Linux:** Use your package manager to install GTK 3.
-3. Build and run:
-   ```sh
-   cargo run 
-   ```
 ---
 
 ## Usage
