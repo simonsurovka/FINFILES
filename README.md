@@ -111,7 +111,6 @@ All data access is performed using only free, public SEC EDGAR sources, with rob
 FINFILES provides a streamlined, tabbed interface to organize all major features for efficient workflow. Below is a summary of each main tab and its core functionality:
 
 ### 1. **Dashboard**
-- **Key Features:**  
   - Ticker input field  
   - Fetch and Export buttons  
   - Real-time status label  
