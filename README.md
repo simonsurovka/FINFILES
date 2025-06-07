@@ -106,13 +106,11 @@ All data access is performed using only free, public SEC EDGAR sources, with rob
 - Customize the UI with additional filters, charts, or export formats.
 
 ---
-## UI Tab Overview
+## UI Tabs Overview
 
 FINFILES provides a streamlined, tabbed interface to organize all major features for efficient workflow. Below is a summary of each main tab and its core functionality:
 
 ### 1. **Dashboard**
-- **Purpose:**  
-  The main landing page for entering ticker symbols, uploading CSVs, and viewing a summary of recent SEC filings.
 - **Key Features:**  
   - Ticker input field  
   - Fetch and Export buttons  
@@ -120,8 +118,6 @@ FINFILES provides a streamlined, tabbed interface to organize all major features
   - Quick access to filters  
 
 ### 2. **Filings Table**
-- **Purpose:**  
-  View a detailed, filterable table of SEC filings for selected tickers.
 - **Key Features:**  
   - TreeView table: Form, Date, Document (clickable), Company, Filing Type, AI Analysis  
   - Pagination with "Load More"  
@@ -129,24 +125,18 @@ FINFILES provides a streamlined, tabbed interface to organize all major features
   - Clickable document links open filings in your browser  
 
 ### 3. **Filters**
-- **Purpose:**  
-  Refine search results by form type, date range, and other criteria.
 - **Key Features:**  
   - Form type dropdown  
   - Date range selectors  
   - Advanced filter options  
 
 ### 4. **Charts & Analytics**
-- **Purpose:**  
-  Visualize filing trends, financial metrics, and analytics.
 - **Key Features:**  
   - Interactive charts (e.g., filing frequency, revenue trends)  
   - Export chart data  
   - AI-powered insights  
 
 ### 5. **FINFILES AI Chat**
-- **Purpose:**  
-  Natural language chat interface for advanced financial analysis using AI/ML models.
 - **Key Features:**  
   - Ask questions about SEC data (e.g., "Summarize", "Forecast", "Show revenue")  
   - Select AI backend (FINFILES AI, ONNX, Remote LLM, Custom Model)  
@@ -154,15 +144,11 @@ FINFILES provides a streamlined, tabbed interface to organize all major features
   - Upload custom AI models  
 
 ### 6. **Export**
-- **Purpose:**  
-  Export filings and analysis results in various formats.
 - **Key Features:**  
   - Export as CSV, PDF, or JSON  
   - Audit log of export actions  
 
 ### 7. **Settings & Security**
-- **Purpose:**  
-  Manage authentication, user roles, and application preferences.
 - **Key Features:**  
   - User authentication (OAuth2/OIDC)  
   - Role-based access control  
