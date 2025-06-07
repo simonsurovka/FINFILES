@@ -118,38 +118,32 @@ FINFILES provides a streamlined, tabbed interface to organize all major features
   - Quick access to filters  
 
 ### 2. **Filings Table**
-- **Key Features:**  
   - TreeView table: Form, Date, Document (clickable), Company, Filing Type, AI Analysis  
   - Pagination with "Load More"  
   - Real-time updates via WebSocket  
   - Clickable document links open filings in your browser  
 
 ### 3. **Filters**
-- **Key Features:**  
   - Form type dropdown  
   - Date range selectors  
   - Advanced filter options  
 
 ### 4. **Charts & Analytics**
-- **Key Features:**  
   - Interactive charts (e.g., filing frequency, revenue trends)  
   - Export chart data  
   - AI-powered insights  
 
-### 5. **FINFILES AI Chat**
-- **Key Features:**  
+### 5. **FINFILES AI Chat** 
   - Ask questions about SEC data (e.g., "Summarize", "Forecast", "Show revenue")  
   - Select AI backend (FINFILES AI, ONNX, Remote LLM, Custom Model)  
   - View chat history and export results  
   - Upload custom AI models  
 
-### 6. **Export**
-- **Key Features:**  
+### 6. **Export**  
   - Export as CSV, PDF, or JSON  
   - Audit log of export actions  
 
-### 7. **Settings & Security**
-- **Key Features:**  
+### 7. **Settings & Security** 
   - User authentication (OAuth2/OIDC)  
   - Role-based access control  
   - Theme and accessibility options  
