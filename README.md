@@ -1,6 +1,6 @@
 # FINFILES – SEC EDGAR Data Access & AI Platform
 
-FINFILES is a professional, cross-platform financial data analysis and AI platform written in Rust. It provides robust, open access to SEC EDGAR filings, advanced analytics, and enterprise-grade AI/ML capabilities—all in a modern, accessible desktop application.
+FINFILES is a professional, cross-platform SEC EDGAR data access app. It fetches and processes SEC filings (such as 10-K and 10-Q ) asynchronously for speed and responsiveness, and includes advanced filtering, export, and audit logging features. All data access is performed using only free, public SEC EDGAR sources, with robust input validation and role-based access control for enterprise security.
 
 ---
 
