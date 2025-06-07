@@ -58,14 +58,13 @@ All data access is performed using only free, public SEC EDGAR sources, with rob
 
 ## Getting Started
 
-### Prerequisites
+### Requirements
 
 - Rust (latest stable, with `cargo`)
 - GTK 3+ development libraries (for your OS)
-- Polars and other Rust crates (see `Cargo.toml`)
-- Internet connection (for fetching SEC data)
+- Required dependencies (see `Cargo.toml`)
 
-### Build & Run
+### Running the Application
 
 1. Clone the repository:
    ```sh
@@ -77,9 +76,8 @@ All data access is performed using only free, public SEC EDGAR sources, with rob
    - **macOS/Linux:** Use your package manager to install GTK 3.
 3. Build and run:
    ```sh
-   cargo run --release
+   cargo run 
    ```
-
 ---
 
 ## Usage
