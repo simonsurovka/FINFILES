@@ -30,7 +30,6 @@ use crate::data_ingestion::FinancialDataLoader;
 use crate::chat_ui::FinancialAIChatApp;
 use crate::error::*;
 
-
 // Unified Main Window
 fn build_main_window(app: &Application, state: Arc<AppState>, auth: Arc<AuthManager>, ai_modules: Vec<Arc<dyn FinancialAIModule>>, ai_data: Option<DataFrame>, audit_log_path: std::path::PathBuf, username: String) -> ApplicationWindow {
     let window = ApplicationWindow::new(app);
